@@ -1,1 +1,1 @@
-# Covid-Database---Java-Swing-
+# Covid Database - Java Swing
